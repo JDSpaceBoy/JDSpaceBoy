@@ -1,12 +1,14 @@
 <h1 align="center">🔮¡Hola! Soy David, desarrollador web ✨</h1>
 <h3 align="center">✨Aprendiz de magia de frontend💻</h3>
+<div align=center>
+
 <a href="https://github.com/jdspaceboy/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jdspaceboy&show_icons=true&theme=radical" />
+  <img height=200 width=435 align="center" src="https://github-readme-stats.vercel.app/api?username=jdspaceboy&show_icons=true&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/jdspaceboy/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spaceboy&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spaceboy&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical&hide_border=true" />
 </a>
-
+</div>
 <p align="center">But just you wait...</p>
 
 
